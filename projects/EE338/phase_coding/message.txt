@@ -1,4 +1,0 @@
-Hello this is Andrews, from Group 18
-Welcome to our test of the phase coding program
-A hash storing the names of the group members of Group 18:
-309858baf91d8638df9e329e3c2102824ffb3e1a9df38a0e3884b6a20dbcfe6f
